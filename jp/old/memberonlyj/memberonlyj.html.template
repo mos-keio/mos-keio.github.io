@@ -1,0 +1,32 @@
+<html>
+<body background="../framej/image/haikei7.gif">
+<center>
+<img src="memberonlyj.gif" width=94%>
+</center>
+<p>
+<img src="event.gif">
+<table>
+	<tr>
+		<td width=10>
+		</td>
+		<td>
+			<font size=3 color=#666666><b>
+			<!-- イベント情報 ここから -->
+			<!-- イベント情報 ここまで -->
+			</b></font>
+		</td>
+		<td width=5%>
+		</td>
+	</tr>
+</table>
+<p>
+<img src="discussdayj.gif">
+<p>
+<!-- ディスカッション日程 ここから -->
+<!-- ディスカッション日程 ここまで -->
+<p>
+<img src="gasshuku.gif">
+<!-- 合宿情報 ここから -->
+<!-- 合宿情報 ここまで -->
+</body>
+</html>

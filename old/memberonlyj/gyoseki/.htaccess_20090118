@@ -1,0 +1,11 @@
+<Files ~ "^\.ht">
+deny from all
+</Files>
+
+AuthType Basic
+AuthUserFile /home/endo/public_html/tmp/.htpasswd
+
+AuthName "Member Certification"
+require valid-user
+
+Options +Indexes

@@ -1,0 +1,7 @@
+ #freeze
+ // :RenameLog (rename plugin)
++*2009-01-15 (木) 17:49:39 [#oe02069e]
++-変更元ページを指定
++--From:[[Paper]]
++--To:[[Paper2008]]
++-Paper→Paper2008

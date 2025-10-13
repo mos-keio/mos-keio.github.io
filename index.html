@@ -1,103 +1,697 @@
-<!doctype html>
-<html lang="ja">
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ただいま工事中 — Under Construction</title>
-  <meta name="description" content="このページは現在工事中です。近日公開予定です。" />
-  <style>
-    :root{
-      --bg:#0f1724;
-      --accent:#ffb020;
-      --muted:#9aa4b2;
-      --glass: rgba(255,255,255,0.03);
-    }
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0;
-      font-family: Inter, system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      background: linear-gradient(180deg, #071022 0%, #071224 60%);
-      color:#e6eef6;
-      display:flex; align-items:center; justify-content:center;
-      padding:32px;
-    }
-    .wrap{max-width:980px; width:100%; border-radius:16px; padding:36px; background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); box-shadow:0 8px 30px rgba(2,6,23,0.7); display:grid; grid-template-columns:1fr 420px; gap:28px; align-items:center;}
-    @media (max-width:880px){.wrap{grid-template-columns:1fr; padding:24px}}
-    .lang-switch{position:absolute; top:20px; right:24px;}
-    .lang-switch button{background:transparent; border:1px solid rgba(255,255,255,0.1); color:#e6eef6; border-radius:8px; padding:6px 10px; margin-left:4px; cursor:pointer; font-size:14px}
-    .lang-switch button.active{background:var(--accent); color:#000;}
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shigeno Lab Keio Univ.</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Favicons
+    ================================================== -->
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+
+  <!-- Stylesheet
+    ================================================== -->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="js/modernizr.custom.js"></script>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
+
 <body>
-  <div class="lang-switch">
-    <button data-lang="ja" class="active">日本語</button>
-    <button data-lang="en">English</button>
+  <!-- Navigation
+    ==========================================-->
+  <nav id="menu" class="navbar navbar-default navbar-fixed-top on">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+          data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span
+            class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="index.html">Shigeno Lab</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#home" class="page-scroll">Home</a></li>
+          <li><a href="#about-section" class="page-scroll">About US</a></li>
+          <li><a href="#services-section" class="page-scroll">Research</a></li>
+          <li><a href="#works-section" class="page-scroll">Photos</a></li>
+          <li><a href="#team-section" class="page-scroll">Team</a></li>
+          <li><a href="#contact-section" class="page-scroll">Access</a></li>
+          <li><a href="./paper.html">Paper</a></li>
+          <li><a href="./forb3.html" class="page-scroll">For B3</a></li>
+          <li><a href="./internal.html">Internal</a></li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+
+  <!-- Header -->
+  <header class="text-center" name="home">
+    <div class="intro-text">
+      <h1>Shigeno Laboratory</h1>
+      <p>Graduate School of Science and Technology, Keio University</p>
+      <div class="clearfix"></div>
+    </div>
+    <!---
+  <div class="intro-btn">
+  <a href="#about-section" class="btn btn-default btn-lg page-scroll">Learn More</a>
+  </div>
+  -->
+  </header>
+  <!-- About Section -->
+  <div id="about-section">
+    <div class="container">
+      <div class="section-title">
+        <h2>About Us</h2>
+        <hr>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <!-- <h4>Who We Are</h4> -->
+          <p>
+            重野研究室ではコンピュータネットワーク，モバイル・ユビキタスコンピューティングの分野で，「適応的でセキュアな新しいネットワーク」を実現を目指して，通信のプロトコルや仕組み，アーキテクチャ，アプリケーションを研究しています．現在は，自動車アドホックネットワークや高度交通システム（ITS）のための通信プロトコル，エッジコンピューティング，ネットワークセキュリティ，無線LANの研究を進めています．
+          <p>
+        </div>
+        <div class="col-md-6">
+          <!-- <h4>What We Do</h4>
+        <p>何書こうかな<p> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Services Section -->
+  <div id="services-section">
+    <div class="container">
+      <div class="section-title">
+        <h2>Our Researches</h2>
+        <hr>
+      </div>
+      <div class="row">
+
+        <div class="col-md-4 col-sm-6 service"> <i class="fa fa-car"></i>
+          <!--<a href="b3/its.html">-->
+            <h4>Intelligent Transport System</h4>
+          </a>         
+          <p>ITS班では，安全で効率的な交通を実現するアプリケーションの開発，及び通信技術の提案を行っています．近年では自動
+            運転車の実現を目的とした車両制御や無線通信に関する研究を積極的に行っています．ITSアプリケーションはV2X通信（車両間の通信）を活用することで交通の安全性と効率を向上させることが期待されています．身近な例を挙げればカーナビの経路案内や渋滞回避機能があります．また自動運転を例にあげれば，前方の車両と隊列を形成して走行する隊列走行などがあります．一方でV2X通信を盗聴することで車両の位置情報を不正に入手することが可能であり，搭乗者の位置プライバシの保護も重要な課題となっています．
+          </p>
+        </div>
+
+        <div class="col-md-4 col-sm-6 service"> <i class="fa fa-cloud"></i>
+          <!--<a href="b3/vn.html">-->
+            <h4>Virtual Network</h4>
+          </a>
+          <p>VN班では，IoTや5G，スマートシティや自動運転といった次世代の技術を支える次世代のネットワークを実現するべく研究を行っています．
+            次世代のネットワークを実現するために，MEC（モバイルエッジコンピューティング）を柱として研究を進めています． MECでは従来のクラウドコンピューティングに加えて，ユーザにより近い位置にエッジサーバを配置し，
+            中間処理を行うことでコアネットワークへの負荷を分散し，通信の低遅延化をもたらします．従来のネットワークでは実現できなかったアプリケーションを実現することを目指して研究を進めています．</p>
+        </div>
+
+        <div class="col-md-4 col-sm-6 service"> <i class="fa fa-hospital-o"></i>
+          <!--<a href="b3/mdm.html">-->
+            <h4>Network Machine Learning</h4>
+          </a>
+          <p>
+            NML班では，連合学習を軸に，次世代ネットワークに対応した機械学習技術の研究を行っています．
+            連合学習は，複数のクライアントが個々に保持しているデータを保持したまま，協力して大規模な機械学習モデルを作成する手法です．各クライアントは，ローカル環境で学習を行い，その結果をサーバを介して共有します．これにより，データ自体を集約することなく個別のクライアントが保有する情報を活用できるため，プライバシーの保護が可能です．連合学習の技術を活用し，自動運転やMECといった最先端のアプリケーションへの応用を目指しています．
+          </p>
+          <div class="space"></div>
+        </div>
+
+        <!--
+        <div class="col-md-4 col-sm-6 service"> <i class="fa fa-hospital-o"></i>
+          <a href="b3/mdm.html">
+            <h4>Medical Data Mining</h4>
+          </a>
+          <p>
+            MDM班では，機械学習やディープラーニングを利用した医療課題の解決を目的とした研究を行っています．これまで活用されて来なかった医療データに着目し，データを解析することで新たな知見を得ます．そして，機械学習やディープラーニングなどの技術を活用することで，医師の意思決定を支援するなど臨床に還元します．現在は電子麻酔記録データを解析し，手術後に悪影響を及ぼす術中の低血圧発生予測や，麻酔の最適な投与量を予測する研究を慶應義塾大学医学部麻酔学教室と共同で行っています．
+          </p>
+          <div class="space"></div>
+        </div>
+      -->
+
+      </div>
+      <div class="space"></div>
+      <div class="row">
+        <!---
+      <div class="col-md-4 col-sm-6 service"> <i class="fa fa-user-secret"></i>
+        <h4>NetWork Security</h4>
+        <p>NWS班では，モバイルクラウドセンシング(MCS)におけるセキュリティについて研究を行っています．MCSとは，人々が持つスマートフォンといったデバイスを用いてセンシングを行うことで，データ収集者がインフラを設置する必要なく安価に大規模データを収集することが可能となるシステムです．しかし，データの質はセンシングに参加する人々に依存するため，データの信頼性の確保が必要という課題があります．そこでNWS班では，悪意を持ってセンシングに参加する人々を検知するためのトラストメカニズムや，攻撃を未然に防止するためのインセンティブメカニズムについて研究しています．</p>
+        
+      </div>
+      
+        <div class="col-md-4 col-sm-6 service"> <i class="fa fa-wifi"></i>
+          <a href="b3/sr.html">
+            <h4>Spatial Reuse</h4>
+          </a>
+          <p>
+            SR班では，マンションや駅など無線LANが密集した環境で性能を向上させることを目的として研究を行っています．無線LANが密集した環境では，端末間での干渉により性能が低下してしまいます．そこで，周波数資源を効率的に利用する空間再利用(Spatial
+            Reuse)によって干渉を低減し，性能を向上させる最先端の研究を行っています．</p>
+        </div>
+      -->
+      </div>
+    </div>
+  </div>
+  <!-- Portfolio Section -->
+  <div id="works-section">
+    <div class="container">
+      <!-- Container -->
+      <div class="section-title">
+        <h2>Our Laboratory Life</h2>
+        <hr>
+        <div class="clearfix"></div>
+      </div>
+      <div class="categories">
+        <ul class="cat">
+          <li>
+            <ol class="type">
+              <li><a href="#" data-filter="*" class="active">All</a></li>
+              <li><a href="#" data-filter=".International">国際会議</a></li>
+              <li><a href="#" data-filter=".Japan">国内会議</a></li>
+              <li><a href="#" data-filter=".Event">イベント</a></li>
+            </ol>
+          </li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="row">
+        <div class="portfolio-items">
+          <div class="col-sm-6 col-md-3 col-lg-3 International">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/portfolio/ccnc.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>CCNC 2020</h4>
+                    <small>@Las Vegas</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/portfolio/ccnc.jpg" class="img-responsive" alt="CCNC 2020">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 International">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/vnc2024.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>VNC 2024</h4>
+                    <small>@神戸</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/vnc2024.jpg" class="img-responsive" alt="VNC 2024">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 Japan">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/portfolio/technomall.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>慶應テクノモール</h4>
+                    <small>@東京国際フォーラム</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/portfolio/technomall.jpg" class="img-responsive" alt="慶應テクノモール">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 Japan">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/portfolio/dicomo2019.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>DICOMO 2019</h4>
+                    <small>@福島県</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/portfolio/dicomo2019.jpg" class="img-responsive" alt="DICOMO 2019">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 Japan">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/dicomo2024.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>DICOMO 2024</h4>
+                    <small>@岩手県</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/dicomo2024.jpg" class="img-responsive" alt="DICOMO 2019">
+                </a> </div>
+            </div>
+          </div>         
+          <div class="col-sm-6 col-md-3 col-lg-3 Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/portfolio/oikon.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>追いコン</h4>
+                    <small>@矢上キャンパス</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/portfolio/oikon.jpg" class="img-responsive" alt="追いコン">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 branding Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/IMCW2021.png" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>夏合宿 2021</h4>
+                    <small>@オンライン</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/IMCW2021.png" class="img-responsive" alt="夏合宿（オンライン）">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 branding Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/summer23.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>夏合宿 2023</h4>
+                    <small>@埼玉県</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/summer23.jpg" class="img-responsive" alt="夏合宿 2023">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 branding Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/summer240828.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>夏合宿 2024</h4>
+                    <small>@千葉県</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/summer240828.jpg" class="img-responsive" alt="夏合宿 2024">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img2022/kensyuu.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>研修</h4>
+                    <small>@研究室</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img2022/kensyuu.jpg" class="img-responsive" alt="研修">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 Event">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img2022/dpsws2022.jpg" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>DPSWS2022</h4>
+                    <small>@研究室</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img2022/dpsws2022.jpg" class="img-responsive" alt="DPSWS2022">
+                </a> </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3 International">
+            <div class="portfolio-item">
+              <div class="hover-bg"> <a href="img/ecoc2024.jpg.webp" rel="prettyPhoto">
+                  <div class="hover-text">
+                    <h4>ECOC 2024</h4>
+                    <small>@フランクフルト</small>
+                    <div class="clearfix"></div>
+                  </div>
+                  <img src="img/ecoc2024.jpg.webp" class="img-responsive" alt="ECOC 2024">
+                </a> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Team Section -->
+  <div id="team-section">
+    <div class="container">
+      <div class="section-title">
+        <h2>Meet the Team</h2>
+        <hr>
+      </div>
+      <div id="row">
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/shigeno.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Hiroshi Shigeno</h3>
+              <p>Prof.</p>
+            </div>
+          </div>
+        </div>
+        <!---
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/mori.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kosuke Mori</h3>
+              <p>Assistant Prof.</p>
+            </div>
+          </div>
+        </div>
+      -->
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/doi.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Chiaki Doi</h3>
+              <p>Visiting Assistant Prof.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- <div class="container">
+      <div id="row">
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/ryu.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Shihyun Ryu</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/fujinaka.jpeg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Tatsuki Fujinaka</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/tanaka.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Hayate Tanaka</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/aicon.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Glenn Louedec</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/ishiyama.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Takahiro Ishiyama</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/omichi.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Mayuko Omichi</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/naoi.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Tomoki Naoi</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/murakami.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Ryuta Murakami</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/murata.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kijun Murata</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <div class="container">
+      <div id="row">
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/mizushima.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Taishi Mizushima</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/aicon.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Tatsuya Shimoide</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/kitatani.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Maho Kitatani</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/miyata.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Yuki Miyata</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/yamashita.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Yutaro Yamashita</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/aicon.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Yuta Yaginuma</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/aicon.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Takato Ieki</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/jimura.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Satsuki Jimura</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/nagata.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kazuki Nagata</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/aicon.png" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kojiro Nishimura</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/miyakita.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Ryo Miyakita</h3>
+              <p>Master Course 2nd </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div id="row">
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/kanmachi.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kota Kanmachi</h3>
+              <p>Master Course 1st </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/kunimoto.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Taiki Kunimoto</h3>
+              <p>Master Course 1st </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/kobayashi.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Shuntaro Kobayashi</h3>
+              <p>Master Course 1st </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/nobe.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Ayano Nobe</h3>
+              <p>Master Course 1st </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/hara.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Manami Hara</h3>
+              <p>Master Course 1st </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 team">
+          <div class="thumbnail"> <img src="img/team/miyazaki.jpg" alt="..." class="team-img">
+            <div class="caption">
+              <h3>Kenichi Miyazaki</h3>
+              <p>Master Course 1st</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+        <div id="row">
+          <div class="col-md-3 col-sm-6 team">
+            <div class="thumbnail"> <img src="img/team/ishida.jpeg" alt="..." class="team-img">
+              <div class="caption">
+                <h3>Tatsuki Ishida</h3>
+                <p>Bachelor Course 4th </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 team">
+            <div class="thumbnail"> <img src="img/team/terada.jpg" alt="..." class="team-img">
+              <div class="caption">
+                <h3>Kazuki Terada</h3>
+                <p>Bachelor Course 4th </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 team">
+            <div class="thumbnail"> <img src="img/team/hatada.jpg" alt="..." class="team-img">
+              <div class="caption">
+                <h3>Yuto Hatada</h3>
+                <p>Bachelor Course 4th </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 team">
+            <div class="thumbnail"> <img src="img/team/li.jpg" alt="..." class="team-img">
+              <div class="caption">
+                <h3>Haoyang Li</h3>
+                <p>Bachelor Course 4th </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 team">
+            <div class="thumbnail"> <img src="img/team/yabuki.jpeg" alt="..." class="team-img">
+              <div class="caption">
+                <h3>Tomoya Yabuki</h3>
+                <p>Bachelor Course 4th </p>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    
+  </div>
+  <!-- Contact Section -->
+  <div id="contact-section">
+    <div class="container">
+      <div class="section-title center">
+        <h2>Access</h2>
+        <hr>
+      </div>
+      <div class="col-md-6">
+        <h4>重野研究室(居室：26-205)</h4>
+        <div class="space"></div>
+        <p><i class="fa fa-map-marker"></i>223-8522　神奈川県横浜市港北区日吉　3-14-1</p>
+        <div class="space"></div>
+        <p><i class="fa fa-phone"></i>43257(内線)・045-563-1141(フロントデスク)・1151(自動情報システム)</p>
+      </div>
+      <div class="col-md-6">
+        <h4>矢上キャンパス</h4>
+        <img src="img/map.gif" alt="..." class="img-responsive">
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+    <div class="container">
+      <p>Copyright &copy; Optics. Designed by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+    </div>
   </div>
 
-  <main class="wrap" role="main">
-    <section class="left">
-      <h1 id="title">ただいま工事中 🚧</h1>
-      <p id="desc">このサイトは現在改装中です。新しいコンテンツを準備中 — もうすぐ公開します。</p>
-      <div class="progress-wrap">
-        <div class="progress" style="background:rgba(255,255,255,0.04); border-radius:999px; height:12px; overflow:hidden; width:320px; max-width:100%">
-          <div class="bar" id="bar" style="width:62%; height:100%; background:linear-gradient(90deg, var(--accent), #ff7b36); border-radius:999px; transition:width 1s;"></div>
-        </div>
-        <div class="meta" id="progress-text" style="margin-top:8px; color:var(--muted); font-size:14px">現在の進捗: <strong id="percent">62%</strong></div>
-      </div>
-    </section>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="js/SmoothScroll.js"></script>
+  <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+  <script type="text/javascript" src="js/jquery.isotope.js"></script>
+  <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+  <script type="text/javascript" src="js/contact_me.js"></script>
 
-    <aside class="card" style="background:rgba(255,255,255,0.02); border-radius:12px; padding:20px; text-align:center">
-      <svg width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10h18M3 6h18M3 14h18M3 18h18"/></svg>
-      <div id="soon" style="font-weight:700; font-size:18px; margin-top:8px">近日公開予定</div>
-    </aside>
-  </main>
-
-  <script>
-    const texts = {
-      ja: {
-        title: 'ただいま工事中 🚧',
-        desc: 'このサイトは現在改装中です。新しいコンテンツを準備中 — もうすぐ公開します。',
-        progress: '現在の進捗:',
-        contact: 'ご質問・お問い合わせ:',
-        soon: '近日公開予定'
-      },
-      en: {
-        title: 'Under Construction 🚧',
-        desc: 'This website is currently being renovated. New content is on the way — launching soon.',
-        progress: 'Progress:',
-        contact: 'Contact us:',
-        soon: 'Coming Soon'
-      }
-    };
-
-    const btns = document.querySelectorAll('.lang-switch button');
-    const t = id => document.getElementById(id);
-
-    btns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        const lang = btn.dataset.lang;
-        btns.forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active');
-        document.documentElement.lang = lang;
-        t('title').textContent = texts[lang].title;
-        t('desc').textContent = texts[lang].desc;
-        t('progress-text').innerHTML = `${texts[lang].progress} <strong id="percent">62%</strong>`;
-        t('contact-label').textContent = texts[lang].contact;
-        t('soon').textContent = texts[lang].soon;
-      });
-    });
-
-    // progress animation
-    const bar = document.getElementById('bar');
-    const pct = document.getElementById('percent');
-    let width = 62;
-    setInterval(()=>{
-      width += Math.random() < 0.3 ? 1 : 0;
-      if(width>88) width=88;
-      bar.style.width = width+'%';
-      pct.textContent = width+'%';
-    },2400);
-  </script>
+  <!-- Javascripts
+    ================================================== -->
+  <script type="text/javascript" src="js/main.js"></script>
 </body>
+
 </html>

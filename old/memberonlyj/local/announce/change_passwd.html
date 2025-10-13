@@ -1,0 +1,172 @@
+<html>
+
+<head>
+<title>パスワードの変更方法</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+
+A:visited{ text-decoration: none; } 
+A:link{text-decoration  : none;}
+A:hover { text-decoration: underline; } 
+ul.img{list-style-image: url('point3.gif'); }
+li{
+    margin-left:15pt;
+    margin-right:15%;
+    font-family: sans-serif;
+}
+h1{
+    border: solid;
+    border-width: 0px 0px 1px 10px;
+    padding: 5px;
+    border-color: #006666;
+    margin-left:10px;
+    margin-right:15%;
+    font-size: small;
+}
+h2{
+	border-style: dotted dotted dotted solid;
+	border-width: 0px 0px 1px 8px;
+	padding 4px;
+	padding-left:10px;
+	border-color:gray;
+	margin-left: 20px;
+	margin-right: 15%;
+    font-size: small;
+    font-family: sans-serif;
+}
+h3{
+	border-style: solid solid solid solid;
+	border-width: 0px 0px 0px 8px
+	padding:4px;
+	padding-left: 10px;
+	margin-left:30px;
+	border-color: blue;
+	font-size: x-small;
+}
+.m1{
+	margin-left:25px;
+	font-family: sans-serif;
+    font-size: 75%;
+}
+body{
+	font-family: sans-serif;
+	font-size: 75%;
+	background-image:url("mos_tile01.gif")
+}
+p{
+	margin-left:35px;
+	margin-right:15%;
+}
+div.command{
+	border: #000000 1px dotted;
+	margin-left: 35px;
+	margin-right:15%;
+	padding: 5px;
+}
+--> 
+</STYLE>
+</head>
+
+<body>
+
+<h1>パスワードの変更方法について</h1>
+<p>
+NIS+では、ログインパスワード以外に、SecureRPCパスワードが使用されます。<br>
+このSecureRPCパスワードは、ログインパスワードの変更やログインシェルの変更を
+行う際に必要になります。<br>
+ログインパスワードを変更するには，1の手順でログインパスワードと
+SecureRPCパスワードを一致させてから2の手順でログインパスワードを変更して
+ください．
+</p>
+
+<p>
+<span style="color:red; font-weight:bold;">
+ここに書かれている作業は全て，NIS+サーバ(= tokyo)にログインして行なってください．
+</span>
+</p>
+
+
+<h2>1. ログインパスワードとSecureRPCパスワードを同一にする手順</h2>
+<p>
+この手順を実行することで、SecureRPCパスワードをログインパスワードと一致させることが
+出来ます。<br>
+一度、実行しておけば、ログインパスワードの変更と同時に、自動的にSecureRPCパスワード
+も同じものに変更されます。
+</p>
+
+<h3>手順</h3>
+<ol>
+<li>chkey -pコマンドを実行
+<li>デフォルトSecureRPCパスワード(nisplus)を入力
+<li>ログインパスワードを入力
+</ol>
+
+<h3>実行例</h3>
+<div class="command">
+$ chkey -p[ENTER]<br>
+Updating nisplus publickey database.<br>
+Reencrypting key for 'unix.ユーザID@mos1.mos.ics.keio.ac.jp'.<br>
+Please enter the Secure-RPC password for ユーザ名: nisplus[ENTER]<br>
+Please enter the login password for ユーザ名: ログインパスワード[ENTER]
+</div>
+<p>
+<span style="color:red; font-weight:bold;">
+ユーザIDは"id ユーザ名"を実行すると"uid="の後に書かれている数字です.
+</span>
+</p>
+
+
+<h2>2. パスワードの変更</h2>
+<p>
+ログインパスワードを変更する場合は、1の手順を実施した後に、実行してください。<br>
+その際に、ログインパスワードとSecureRPCパスワードは連動して変更されます。
+</p>
+
+<h3>手順</h3>
+<ol>
+<li>keyloginコマンドを実行
+<li>SecureRPCパスワード（＝ログインパスワード）を入力
+<li>passwdコマンドまたはnispasswdコマンドを実行
+<li>対話環境でパスワードを変更
+</ol>
+
+<h3>実行例</h3>
+<div class="command">
+$ keylogin[ENTER]<br>
+Password:SecureRPCパスワード[ENTER]<br>
+$ nispasswd[ENTER]<br>
+Changing password for ユーザ名 on NIS+ server<br>
+Old NIS+ password:ログインパスワード[ENTER]<br>
+Last successful password change for ユーザ名: Thu Aug  9 12:50:49 2002<br>
+Last unsuccessful password change for ユーザ名: Thu Aug  9 12:53:22 2002<br>
+</div>
+
+
+<h2>3. パスワードに関する注意事項(<span style="color:red;">重要</span>)</h2>
+<p>
+パスワードは以下の条件を全て満たすものを使うようにしてください．
+</p>
+<ul class="img">
+<li>6文字以上
+<li>大文字と小文字を織りまぜる
+<li>記号を含める
+<li>辞書に載っている単語(特に英単語)は使わない
+<li>ユーザ名の部分文字列を使わない
+</ul>
+
+
+<h2>4. 質問など</h2>
+<p>
+わからないことがありましたら，SUのNIS+(ニスプラスとよむ)担当者に質問してください．
+</p>
+
+
+<br><br>
+<p class="back">
+<a href="index.html">「管理者からのアナウンス」に戻る</a>
+</p> 
+
+<br>
+</body>
+</html>
+
