@@ -1,0 +1,237 @@
+/********************
+ *   Rose Version   *
+ ********************/
+
+
+/* initialize marign, padding */
+@charset "Shift_JIS";
+*{margin: 0px; padding: 0px;}
+
+
+/* customize global elements */
+
+h1{
+	margin: 0px auto;
+	padding-top: 40px;
+	text-indent: 40px;
+	width: 100%;
+	min-width: 480px;
+	background-color: #000;
+	background-image: url("../img/title_back.jpg");
+	color: #dd4;
+	border-bottom: 2px solid #800;
+	font-size: 60px;
+	text-align: left;
+}
+
+h2{
+	margin: 60px 0px 30px 0px;
+	border-bottom: 2px solid #fc3;
+	font-size: 30px;
+}
+
+h3{
+	margin: 10px 0px 30px 0px;
+	padding-left: 20px;
+	/*border-bottom: 1px solid #cccccc;*/
+	border-bottom: 2px solid #fc3;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+img{
+	border-width: 0px;
+}
+
+address{
+	margin-top: 100px;
+	color: #000;
+	font-size: 13px;
+	font-style: normal;
+	text-align: center;
+}
+
+dl{
+	padding: 20px 0px;
+	font-size: 13px;
+	text-align: left;
+}
+
+a{
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+
+p{
+	margin: 0px 0px 5px;
+	padding: 8px 0px;
+	width: 580px;
+	font-size: 16px;
+	text-align: justify;
+	text-indent: 14px;
+	line-break: strict;
+}
+
+ul{
+	margin: 0px 0px 10px;
+	padding: 0px;
+	font-size: 15px;
+}
+
+
+/* frame structure -- body, navi, main -- */
+
+body{
+	_overflow: hidden;
+	height: 100%;
+	scrollbar-base-color: #600;
+	scrollbar-track-color: #000;
+	font-family:"Times New Roman", serif;
+}
+
+#main{
+	overflow: auto;
+	margin-left: 240px;
+	height: 100%;
+	/*background: #000 url("../img/main_back.jpg") no-repeat fixed 100% 100%;*/
+	color: #fffafa;
+	text-align: center;
+}
+#main_in{
+	margin: 0px auto;
+	padding-top: 30px;
+	width: 620px; height: 100%;
+	color: #000;
+	text-align: left;
+}
+
+#navi{
+	background-color: #65a;
+	/*background-color: #d84;*/
+	position: fixed;
+	_position: absolute;
+	left: 0px; top: 0px;
+	padding-top: 15px;
+	width: 240px; height: 100%;
+}
+#navi_in{
+	margin-left: 30px;
+	width: 160px;
+}
+
+
+/* global class */
+
+.block{
+	font-size: 14px;
+}
+
+.second-line{
+	text-indent: 2em;
+}
+.navi-margin{
+	margin-top: 20px;
+}
+
+
+/* elements in class, id */
+
+#navi h3{
+	padding-left: 0px;
+	color: #cc0033;
+	border-width: 4px;
+}
+
+#navi ul{
+	list-style: none;
+	font-size: 20px;
+}
+#navi a{
+	width: 150px; height: 40px; _height: 30px;
+	display: block;
+	font-weight: bold;
+	/*background-image: url("../img/navi.jpg");*/
+	color: #ffffff;
+	text-indent: 10px;
+}
+#navi a:hover{
+	color: #f00;
+}
+
+#main ul{
+	margin-left: 20px;
+}
+
+#main_in li{
+	color: #000000;
+	margin:10px 20px 0px;
+	text-align: justify;
+}
+.line{
+	line-height: 2;
+}
+.dot_clear{
+	/*liÇÃÅEÇè¡Ç∑èàóù*/
+	display:block;
+	list-style-type:none; 
+}
+
+.block{
+	margin-top: 40px;
+	text-align: center;
+}
+.block_in{
+	margin: auto;
+	width: 720px;
+	/*text-align: justify;*/
+	text-align: center;
+}
+.w_large {color: #ffffff;
+	  font-size: 20pt;
+	  font-family: "Times New Roman"
+	  text-align: justify;}
+.w_huge {color: #ffffff;
+	 font-size: 28pt;
+	 font-family: "Times New Roman"
+	 text-align: justify;}
+.b_normal {color: #000000;
+           font-size: 16pt;
+	   font-family: "Times New Roman"
+	   text-align: justify;}
+.w_small {color: #ffffff;
+          font-size: 11pt;
+	  font-family: "Times New Roman"
+	  text-align: justify;}
+.b_small {color: #000000;
+          font-size: 11pt;
+	  white-space: normal;
+	  font-family: "Times New Roman"
+	  text-align: justify;}
+
+.top_table {background-color: #6a0b9d;
+	    margin-bottom: 20px;}
+.mid_table {
+	background-color: #a600ff;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	}
+.btm_table {background-color: #d992ff;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+}
+
+.year_mid_table {
+	background-color: #da459e;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	}
+.year_btm_table {background-color: #efa3e6;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+}
+
+
+
+.center {
+	text-align: center;
+}

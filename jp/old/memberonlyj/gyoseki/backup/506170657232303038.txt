@@ -1,0 +1,2495 @@
+>>>>>>>>>> 1231976927
+[[FrontPage]]
+
+** Journal Paper [#wa80bd61]
+
+** International Paper [#v30d62c5]
+
+** Magazine [#b7c8f2e1]
+
+** SIG Report [#r2a48e28]
+
+** Domestic Conference [#wa1d7c37]
+
+** Book [#cb8cc455]
+
+** Exhibition [#ab862d0a]
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1231978151
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+
+** Domestic Conference [#wa1d7c37]
+
+** Book [#cb8cc455]
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232224922
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月.
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232306037
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232318123
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232345703
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232381959
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232473401
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008.
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. 
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232487568
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232901330
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1232903786
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233074675
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233136503
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. 
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233272793
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(IJISjournal_shun.pdf);
+
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233357811
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233612591
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(journal_shun.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1233616283
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(journal_shun.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+-野口 大介, 佐藤 淳太, 大津 香織, 坂内 祐一，岡田 謙一，"2種類の香りの前後関係演出を可能にする提示手法"，VR学研報, Vol.14, No.SBR-1, pp.27-32, 2009年1月.&ref(SBR_noguchi.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1234128975
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(journal_shun.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+-長橋健太郎,杉山阿葵,栖関邦明,岡田謙一, "災害現場におけるトリアージを用いた傷病者情報入力端末の提案" 情報処理学会第70回グループウェアとネットワークサービス研究会, pp.25-30,2009年1月．&ref(gn70_nagahashi.pdf); 
+
+-野口 大介, 佐藤 淳太, 大津 香織, 坂内 祐一，岡田 謙一，"2種類の香りの前後関係演出を可能にする提示手法"，VR学研報, Vol.14, No.SBR-1, pp.27-32, 2009年1月.&ref(SBR_noguchi.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1234210511
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(journal_shun.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+-山本峻，岡田謙一，“Mixed Reality空間における実物体の多重化〜複数の作業者が各自の多重化された実物体を占有する協調作業支援〜”，日本工業出版「画像ラボ」第20巻第2号,pp19-24, 2009年2月10日. 
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+-長橋健太郎,杉山阿葵,栖関邦明,岡田謙一, "災害現場におけるトリアージを用いた傷病者情報入力端末の提案" 情報処理学会第70回グループウェアとネットワークサービス研究会, pp.25-30,2009年1月．&ref(gn70_nagahashi.pdf); 
+
+-野口 大介, 佐藤 淳太, 大津 香織, 坂内 祐一，岡田 謙一，"2種類の香りの前後関係演出を可能にする提示手法"，VR学研報, Vol.14, No.SBR-1, pp.27-32, 2009年1月.&ref(SBR_noguchi.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+>>>>>>>>>> 1234210799
+*Paper　2008 [#p47bd78f]
+#contents
+
+** Journal Paper [#wa80bd61]
+-佐藤淳太, 門脇亜美, 大津香織, 坂内祐一, 岡田謙一, "順応効果を軽減できるパルス射出による香り提示手法", 情報処理学会論文誌, Vol.49, No.8, 2922-2929, 2008年8月.
+
+-渡辺晃一郎，竹内達史，井上智雄，岡田謙一， “操作者識別を利用した対面協調作業支援システム”，電子情報通信学会論文誌サイバーワールド特集号， Vol.J91-D.No12，pp.2755-2764, 2008年12月.&ref(ieice_journal_watanabe.pdf);
+
+-門脇亜美，佐藤淳太，大津香織，坂内祐一，岡田謙一， “呼吸に同期させたパルス射出提示システム”，電気学会論文誌Vol.128-E No.12 pp.455-460(2008年12月)
+
+-小口潔, 田中大吾, 友澤弘充, 重野寛, "マルチホーム環境における帯域集約のためのリンク層状況を利用したコネクション制御手法," 情報処理学会論文誌, Vol.50, No.1, pp.98--107(2009年1月).&ref(ronbunshi_oguchi.pdf);
+
+-高田格，栖関邦明，杉山阿葵，岡田謙一, "２つの遠隔会議への同時参加支援手法"，情報処理学会論文誌，vol.50, No.1，pp.236-245(2009年1月).&ref(journal_takata.pdf);
+
+-Shun Yamamoto, Hidekazu Tamaki, Yuichi Bannai, Kenichi Okada, 
+"Method for Sharing Real Objects with Different Syntax through Virtual 
+Stickers between Distant Mixed Reality Spaces", 
+International Journal of Informatics Society, 
+Vol.1, No.1, pp.27-34, Jan. 2009.&ref(journal_shun.pdf);
+
+** International Paper [#v30d62c5]
+-Nobutaka Kawaguchi, Hiroshi Shigeno, Kenichi Okada, "A Distributed Detection of Hit-list Worms", In Proceedings of The IEEE International Conference on Communications 2008, May, 2008.
+
+-Yojiro Okada, Ryohei Hatori, Hiroshi Shigeno, "A Data Dissemination Method for Vehicular Ad-hoc Networks Based on Traffic Information Class and Running Condition", The Fourth International Workshop on Vehicle-to-Vehicle Communications (V2VCOM 2008), pp.27-34, June, 2008.&ref(v2vcom_yojiro.pdf);
+
+
+-Yuta Okajima, Shun Yamamoto, Yuichi Bannai, Ken-ichi Okada, "Expression of the Remote User in the Mixed Reality Remote Collaboration", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.116-121, August, 2008..&ref(collab_okajima.pdf);
+
+-Noriyuki Hashimoto, Masaki Suzuki, Takuya Komata, Hiroshi Shigeno, Kyoko Ariyasu, Hiroshi Senoo, "User Feedback Collection method with Trackback for TV Broadcast Services", In Proc. of the Fourth International Conference on Collaboration Technologies, pp.60-65, August, 2008.&ref(Collabtech2008_hasimoto.pdf);
+
+-Seiji Shibaguchi, Taro Inaba, Hidekazu Shiozawa, Ken-ichi Okada, "Visualization of File Transfer Root for Digital Forensics", In Proc. of The Fourth International Conference on Collaboration Technologies, pp.157-162, August, 2008.
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, "Pulse Ejection Presentation System of Odor Synchronized with the User’s Breathing", In Proc. of International Workshop on Informatics 2008, pp.138-143, September, 2008.&ref(IWIN_ohtsu.pdf);
+
+-Kuniaki Suseki, Aki Sugiyama, Ken-ichi Okada, "Twofold TV Watching Method with Shortened Video Playing", In Proc. of Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems 2008, pp.104-109, September, 2008.
+
+-Koichiro Watanabe, Tatsushi Takeuchi,Tomoo Inoue and Ken-ichi Okada, "Tangible Tabletop Interface that Supports Cooperative Learning in Face-to-face Environment", In Proc. of The 16th International Conference on Computers in Education, pp.463-467, October, 2008.&ref(icce2008_watanabe.pdf);
+
+-Hiromu Miyashita, Masaki Hayashi, Ken-ichi Okada, "Implementation of EOG-based Gaze Estimation in HMD with Head-tracker", 18th International Conference on Artificial Reality and Telexistence, pp.20-27, December, 2008.&ref(icatMiyashita.pdf);
+
+-Masaki Hayashi, Hiromu Miyashita, Ken-ichi Okada, "A Method of Supporting Personal Activities in Virtual Reality Space Utilizing Physiological Data", 18th International Conference on Artificial Reality and Telexistence, pp.101-108, December, 2008.&ref(icatHayashi.pdf);
+
+-Aki Sugiyama, Kuniaki Suseki and Ken-ichi Okada, "Multiple Conference Support Method Using Variable Speed Playing and Video Image Switching", 18th International Conference onArtificial Reality and Telexistence, pp.281-284, December, 2008.
+
+-Junta Sato, Kaori Ohtsu, Yuichi Bannnai, Ken-ichi Okada, "Pulse Ejection Technique of Scent to Create Dynamic Perspective", 18th International Conference on Artificial Reality and Telexistence, pp.167-174, December, 2008. 
+
+** Magazine [#b7c8f2e1]
+-岡田謙一, “デジタルに香りを制御する香りディスプレイ”, NPO法人ウェアラブル環境情報ネット推進機構機関誌「Nature Interface」第8巻3号（通巻第39号）, pp.12-13, 2008年9月.&ref(nature_interface.pdf);
+
+-山本峻，岡田謙一，“Mixed Reality空間における実物体の多重化〜複数の作業者が各自の多重化された実物体を占有する協調作業支援〜”，日本工業出版「画像ラボ」第20巻第2号,pp19-24, 2009年2月10日. 
+
+** SIG Report [#r2a48e28]
+-林雅樹，宮下広夢，岡田謙一， "VR空間における生体情報を利用した感性情報マッピング手法"，第68回グループウェアとネットワークサービス研究会, pp.25-30, 2008年5月.&ref(GN_hayashi.pdf);
+
+-大津香織, 佐藤淳太, 坂内祐一, 岡田謙一, "香りの遠近演出を可能とする提示手法", VR学研報, Vol.13, No.CS-2, pp.37-42, 2008年5月.&ref(SBR_ohtsu.pdf);
+
+-宮下広夢, 林雅樹, 岡田謙一, "視線入力インターフェースを備えたHMDによるVR空間没入支援", VR学研報, Vol.13, No.CS-2, pp.25-30, 2008年5月.&ref(cs34Miyashita.pdf);
+
+-佐藤淳太, 大津香織, 門脇亜美, 坂内祐一, 岡田謙一, "一呼吸中での2 種類の芳香パルス提示における嗅覚特性の測定", におい・かおり環境学会論文要旨集, Vol.21, pp.81-84, 2008年6月.
+
+-羽鳥遼平，岡田陽次郎, 重野寛， "車車間通信による出会い頭事故防止支援を目的としたプロトコルの提案", 第33回ITS研究会, pp.1-6，2008年6月.&ref(its_hatori.pdf);
+
+
+-真下 洋，重野 寛, "SRJE: 結託攻撃を抑制するための分散認証手法", 第135回DPS研究会, pp.93-98, 2008年6月.
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, "動的な遠近感を演出する香りのパルス射出提示手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.1350-1357, 2008年7月.&ref(DICOMO_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛, 岡田謙一, "経路ダイバーシティを考慮した緊急メッセージ送信手法の提案", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.90-95, 2008年7月.&ref(DICOMO_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, "Bloom filterを利用したSemantic Overlay Network構築手法の検討", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.424-429, 2008年7月..&ref(DICOMO_takagi.pdf);
+
+-稲場 太郎, 芝口 誠仁, 川口 信隆, 重野 寛, 岡田 謙一, "ディジタルフォレンジックのための視覚化によるワームの感染経路特定手法", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.27-34, 2008年7月.&ref(DICOMO_inaba.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, "複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援", 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, pp.289-296, 2008年7月.&ref(DICOMO2008_yamamoto.pdf);
+
+-栖関邦明，杉山阿葵，岡田謙一, "二つの遠隔会議への同時参加支援手法", 情報処理学会　第69回グループウェアとネットワーク研究会, pp.107-112, 2008年9月.
+
+-岡嶋雄太，山本峻，坂内祐一，岡田謙一, "相手の視覚情報を複合現実感技術により取得する遠隔作業支援の提案", MVE2008, pp.37-42, 2008年10月.&ref(cs35_okajima.pdf);
+
+-佐藤淳太, 大津香織, 坂内祐一, 岡田謙一, "一呼吸中での2種類の香り提示における嗅覚の時間特性の測定", MVE2008, pp.43-48, 2008年10月.
+
+-宮下広夢, 林雅樹, 岡田謙一, "携帯型映像空間表示装置のための動作と視線による視野領域抽出方法", 情報処理学会研究報告, Vol.2008, No.107, pp.17-24, 2008年11月.&ref(mblMiyashita.pdf);
+
+-竹内達史，渡辺晃一郎，井上智雄，岡田謙一, "演劇創作活動を支援する実世界指向環境と連携可能なGUIシステムの提案", 情報処理学会シンポジウムシリーズ, Vol.2008, No.10, pp.19-24, 2008年11月.&ref(gnws2008_takeuchi.pdf);
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, “テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク”, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.163-168,2008年12月.
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, "無線センサネットワークを利用したトリアージシステムの提案", 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, pp.157-162, 2008年12月
+
+-中山佑輝，稲場太郎，芝口誠仁，岡田謙一，"機密データの伝搬経路可視化手法"，情報処理学会第70回グループウェアとネットワークサービス研究会，pp.31-36，2009年1月．&ref(gn70_nakayama.pdf);
+
+-長橋健太郎,杉山阿葵,栖関邦明,岡田謙一, "災害現場におけるトリアージを用いた傷病者情報入力端末の提案" 情報処理学会第70回グループウェアとネットワークサービス研究会, pp.25-30,2009年1月．&ref(gn70_nagahashi.pdf); 
+
+-野口 大介, 佐藤 淳太, 大津 香織, 坂内 祐一，岡田 謙一，"2種類の香りの前後関係演出を可能にする提示手法"，VR学研報, Vol.14, No.SBR-1, pp.27-32, 2009年1月.&ref(SBR_noguchi.pdf);
+
+-松山　岳史, 山本　峻, 岡嶋　雄太, 岡田 謙一，"実物体を用いた遠隔MR作業支援におけるデータグローブの導入"，日本VR学会 第36回サイバースペースと仮想都市研究会,  pp.47-52, 2009年2月.&ref(CS36_matsuyama.pdf);
+
+** Domestic Conference [#wa1d7c37]
+-岡田謙一, "香り放送を目指して", 情報処理学会 放送コンピューティングワークショップ（招待講演）2008年7月.
+
+** Book [#cb8cc455]
+-中本高道編著、岡田謙一他著　 嗅覚ディスプレイ　フレーフランスジャーナル社(2008年10月）.
+
+** Exhibition [#ab862d0a]
+-羽鳥遼平，黒木智也，内川亜美，岡田陽次郎，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (車両アドホックネットワークの構築)"，慶應テクノモール2008，2008年12月.&ref(technomall_hatori.pdf);
+ 
+
+-友澤弘充，小林ひかる，小口潔，重野寛， "車車間通信やトリアージ支援へのアドホックネットワークの応用 (トリアージにおけるアドホックネットワークの構築)"，慶應テクノモール2008，2008年12月. &ref(technomall_tomozawa.pdf);
+
+-渡辺晃一郎，竹内達史，西濱大貴，井上智雄，岡田謙一， "協調学習を支援する実世界指向のテーブルトップインタフェース"，慶應テクノモール2008，2008年12月. &ref(technomall2008_XDL.pdf);
+
+-佐藤淳太, 大津香織, 野口大介, 岡田謙一, "臨場感あふれる香り演出", 慶應テクノモール2008，2008年12月. &ref(technomall2008_EVE.pdf);
+
+** Newspaper Article [#lbf9a409]
+
+** Award [#k008a99e]
+-真下洋，新崎裕隆，上田真太郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)， DHTにおける認証ノードに対する評価値を考慮した分散認証手法の提案
+
+-羽鳥遼平，春名恒臣，岡田陽次郎，重野寛，情報処理学会第70回全国大会，大会奨励賞(2008/3/15)，交差点における出会い頭事故防止を支援するプロトコルの検討
+
+-竹内達史, 石堂遼子，渡辺晃一郎，井上智雄，岡田謙一，情報処理学会 第67回GN研究会, 優秀発表賞(2008/03/21), 演劇創作活動を支援する実世界指向環境DiamondTheaterの提案&ref(gn67_award_takeuchi.pdf);
+
+-坂内祐一，石澤正行，重野寛，岡田謙一，情報処理学会論文賞（2008/5/30) 感性語を媒介にした香りコミュニケーションモデル
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 放送コンピューティング研究グループ, 優秀発表論文賞(2008/7/9), 呼吸に同期させた香りのパルス射出提示手法&ref(BCC_award_ohtsu.pdf);
+
+-山本峻, 岡嶋雄太, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/9), 複合現実感空間におけるポータブルな実物体を基準に相対座標変化量を軌跡提示する遠隔作業支援&ref(young_yamamoto.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 最優秀プレゼンテーション賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_presentation_ohtsu.pdf);
+
+-大津香織, 門脇亜美, 佐藤淳太, 坂内祐一, 岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, 優秀論文賞(2008/7/11), 動的な遠近感を演出する香りのパルス射出提示手法&ref(DICOMO_ronbun_ohtsu.pdf);
+
+-友澤弘充，小口潔，重野寛，岡田謙一, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), 経路ダイバーシティを考慮した緊急メッセージ送信手法の提案&ref(DICOMO2008_Award_tomozawa.pdf);
+
+-高木健士, 遠藤伶, 重野寛, 情報処理学会 マルチメディア，分散，協調とモバイル(DICOMO2008)シンポジウム, ヤングリサーチャー賞(2008/7/11), Bloom filterを利用したSemantic Overlay Network構築手法の検討
+
+-Kaori Ohtsu, Junta Sato, Yuichi Bannai, and Kenichi Okada, International Workshop on Informatics 2008, Young Researcher Award (2008/9/11), Pulse Ejection Presentation System of Odor Synchronized with the User's Breathing&ref(IWIN_award_ohtsu.pdf);
+
+-杉山阿葵, 栖関邦明, 長橋健太郎, 重野寛, 岡田謙一, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 優秀プレゼンテーション賞(2008/12/12)，無線センサネットワークを利用したトリアージシステムの提案
+
+-小俣拓也, 橋本範之, 重野寛, 沼田誠, 妹尾宏, 情報処理学会第16回マルチメディア通信と分散処理ワークショップ, 学生優秀論文賞(2008/12/12), テレビ放送コンテンツ適応提示のためのダウンロード連携フレームワーク 
+
+** Patent [#v33f53aa]
+
+** Dissertation [#q9223c4a]
+

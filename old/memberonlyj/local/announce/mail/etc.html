@@ -1,0 +1,173 @@
+<html>
+
+<head>
+<title>メールに関する諸注意</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+
+A:visited{ text-decoration: none; } 
+A:link{text-decoration  : none;}
+A:hover { text-decoration: underline; } 
+ul.img{list-style-image: url('point3.gif'); }
+li{
+    margin-left:15pt;
+    margin-right:15%;
+    font-family: sans-serif;
+}
+h1{
+    border: solid;
+    border-width: 0px 0px 1px 10px;
+    padding: 5px;
+    border-color: #006666;
+    margin-left:10px;
+    margin-right:15%;
+    font-size: small;
+}
+h2{
+	border-style: dotted dotted dotted solid;
+	border-width: 0px 0px 1px 8px;
+	padding 4px;
+	padding-left:10px;
+	border-color:gray;
+	margin-left: 20px;
+	margin-right: 25%;
+    font-size: small;
+    font-family: sans-serif;
+}
+.m1{
+	margin-left:25px;
+	font-family: sans-serif;
+    font-size: 75%
+}
+body{
+	font-family: sans-serif;
+	font-size: 75%;
+}
+p{
+	margin-left:30px;
+	margin-right:15%;
+}
+div.command{
+	border: #000000 1px dotted;
+	margin-left: 35px;
+	margin-right:15%;
+	padding: 5px;
+}
+--> 
+</STYLE> 
+</head>
+
+<body background="../mos_tile01.gif">
+
+<h1>メールに関する諸注意</h1>
+<p>
+ここでは，研究室内でメールを使う際に，知っていると便利なテクニックや
+守ってもらいたい制限事項について説明します．
+</p>
+
+<h2>拡張アドレス</h2>
+<p>
+例えば，あるメールマガジンに登録している場合，そのメールマガジン専用の
+メールアドレスを使えたら，メールの管理が楽になります．
+メールマガジンでなくても，ある目的だけのためのメールアドレスが自由に使えたら，
+いろいろ便利なことがあると思います．
+</p>
+<p>
+拡張アドレスというのは，そういうことを実現する仕組みです．<br>
+拡張アドレスを利用すれば，メールアドレスを幾つでも作ることができますが，
+全く自由にアドレスを作れるわけではありません．
+"ohya"というアカウントが作成できるのは，"ohya-xxx"とか"ohya-xxx-xxx"
+といったメールアドレスだけです．必ず先頭に"ohya-"が付きます．
+</p>
+<p>
+"ohya-hoge"というアドレスを作るには，ホームディレクトリの直下に
+".qmail-hoge"というファイルを用意します．
+この".qmail-hoge"には"ohya-hoge"宛に届いたメールの処理方法を書きます．
+書き方は通常の".qmail"と同じです．
+</p>
+
+<h2>ゴミ箱アドレス</h2>
+<p>
+拡張アドレスを利用して，届いたメールを読まずに捨てる，
+"ゴミ箱アドレス" を作ることができます．
+やり方は簡単で，ゴミ箱アドレスに設定したいメールアドレスの
+.qmailファイルに#だけ書いておけばOKです．<br>
+#以外は何も書かないでください．<br>
+これで，そのアドレスに届いたメールは届いた側から消えていくことになります．
+</p>
+
+<h2>サイズ制限</h2>
+<p>
+今のところ，メールの最大サイズは10Mバイトに設定されています．<br>
+これはメールの本文や添付ファイル等を含めたトータルのサイズですので，
+大きい添付ファイルを添付する場合には，大体8Mぐらいが上限と思ってください．<br>
+上限サイズよりも大きいサイズのメールは，送ることも受信することもできません．
+</p>
+
+<h2>CGIからメールを出す</h2>
+<p>
+CGIからsendmailコマンドを使ってメールを出している人がときどきいますが，
+そういう人達に一つだけやってもらいたいことがあります．<br>
+それは，「メールの差出人を明示的に設定する」ということです．<br>
+細かい説明は避けますが，差出人を設定しないでメールを出すと，"nobody"という
+謎のユーザからメールが送信されることになり，メールサーバのエラーの原因になります．<br>
+差出人を指定するには，sendmailコマンドに引数"-f 差出人アドレス"を付けます．
+具体的には，こんな感じになります．
+</p>
+<div class="command">
+/usr/lib/sendmail -f ohya@mos.ics.keio.ac.jp
+</div>
+<p>
+これで，ohya@mos.ics.keio.ac.jpというアドレスを差出人として，メールを送信します．
+CGIのどこかでsendmailコマンドを指定する箇所があると思いますので，
+そこに"-f 差出人アドレス"を付け加えてください．
+</p>
+
+<h2>転送先のメールボックスの容量</h2>
+<p>
+研究室のアカウントに届いたメールを他のプロバイダに転送するように
+設定している人も多いと思いますが，転送先のメールボックスの容量には気をつけてください．<br>
+旅行などでしばらくメールを見なくなる場合には，
+転送先のメールボックスがあふれることがあります．
+携帯電話や，hotmailなどは比較的溢れやすいようです．<br>
+長期間メールを見ない時には，転送の設定を一度解除してください．
+</p>
+
+<h2>メールスプールに関する設定</h2>
+<p>
+POPで一度読んだメールは"~/Maildir/new/"から"~/Maildir/cur/"へ移動するため、
+これをMewで読むためには".emacs.el"の"incdir""incm"の部分を書き換える必要があります。
+</p>
+<div class="command">
+・変更前 - 例１<br>
+("mailbox-type" . mbox)<br>
+("mbox-command" . "/usr/local/bin/incm")<br>
+("mbox-command-arg" . "-d /home/hoge/Maildir")<br>
+・変更前 - 例２<br>
+("mailbox-type" . mbox)<br>
+("mbox-command" . "/usr/local/bin/incdir")<br>
+("mbox-command-arg" . "-d /home/hoge/Maildir")
+</div>
+<p>
+の"mbox-command-arg"の部分に"-a"を加えて次のようにします。
+</p>
+<div class="command">
+・変更後<br>
+("mailbox-type" . mbox)<br>
+("mbox-command" . "/usr/local/bin/incm")<br>
+("mbox-command-arg" . "-a -d /home/hoge/Maildir")
+</div>
+<p>
+こうすることで"~/Maildir/cur/"にあるメールをMewに読み込むことができます。
+</p>
+
+<br><br>
+<p class="back">
+<a href="../index.html">「管理者からのアナウンス」に戻る</a>
+</p> 
+
+<br>
+</body>
+</html>
+
+

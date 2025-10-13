@@ -1,0 +1,116 @@
+<html>
+
+<head>
+<title> 研究室外からのPOPの利用に関して</title>
+<STYLE TYPE="text/css"> 
+<!-- 
+
+A:visited{ text-decoration: none; } 
+A:link{text-decoration  : none;}
+A:hover { text-decoration: underline; } 
+ul.img{list-style-image: url('../point3.gif'); }
+li{
+    margin-left:15pt;
+    margin-right:15%;
+    font-family: sans-serif;
+}
+h1{
+    border: solid;
+    border-width: 0px 0px 1px 10px;
+    padding: 5px;
+    border-color: #006666;
+    margin-left:10px;
+    margin-right:15%;
+    font-size: small;
+}
+h2{
+	border-style: dotted dotted dotted solid;
+	border-width: 0px 0px 1px 8px;
+	padding 4px;
+	padding-left:10px;
+	border-color:gray;
+	margin-left: 20px;
+	margin-right: 25%;
+    font-size: small;
+    font-family: sans-serif;
+}
+.m1{
+	margin-left:25px;
+	font-family: sans-serif;
+    font-size: 75%
+}
+body{
+	font-family: sans-serif;
+	font-size: 75%;
+	background-image:url("../mos_tile01.gif")
+}
+p{
+	margin-left:30px;
+	margin-right:15%;
+}
+div.command{
+	border: #000000 1px dotted;
+	margin-left: 35px;
+	margin-right:15%;
+	padding: 5px;
+}
+--> 
+</STYLE>
+
+</head>
+
+<body>
+
+<h1>研究室外からのPOPの利用に関して</h1>
+
+<p>
+研究室外からもPOPでメールが読めるようになりました．<br>
+利用には以下の設定が必要です．
+</p>
+
+<h2>パスワードの設定</h2>
+<p>
+<span style="color:red;">(以下の作業は他の人に見られないように行って下さい)</span><br>
+POP認証で用いるパスワードは，ログインパスワードとは別のものにしてください．
+これは，万が一メールのパスワードが外部に洩れた際に被害を少なくするためです．<br>
+POPパスワードは次のように設定します．
+</p>
+<div class="command">
+$ touch ~/Maildir/.password<br>
+$ chmod 600 ~/Maildir/.password<br>
+$ echo "パスワード" &gt;&gt; ~/Maildir/.password
+</div>
+
+<h2>メールクライアントの設定</h2>
+<p>
+メールクライアントは，次のように設定してください．
+</p>
+<ul class="img">
+<li>POPサーバ : pop.mos.ics.keio.ac.jp
+<li>SMTPサーバ : smtp.mos.ics.keio.ac.jp
+<li>パスワード : "パスワードの設定"で設定したパスワード
+<li>認証方式 : APOP
+</ul>
+
+<h2>注意事項</h2>
+<ul class="img">
+<li>"POP before SMTP"を利用していますので，POP認証を行った後でないと，
+SMTPは使えません．従って，メールを送信する際には一度受信の操作が必要になります．
+受信後の3分間に限り，メールが送信可能になります．
+<li>認証方式はAPOP認証の他に素のPOP認証も使えますが，
+極力APOPを利用するようにしてください．
+<li>メールスプールのディレクトリは"~/Maildir"にしてください．
+他のディレクトリにしているとPOPが使えません．
+<li>Sun部屋(192.168.10.xxx)から送信する場合に限り，POP認証なしでメールが送信できます．
+</ul>
+
+
+<br><br>
+<p class="back">
+<a href="../index.html">「管理者からのアナウンス」に戻る</a>
+</p> 
+
+<br>
+</body>
+</html>
+
